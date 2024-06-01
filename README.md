@@ -1,1 +1,3 @@
 # init-nt
+
+# initialize windows setups default progs etc...
